@@ -1,0 +1,5 @@
+# Not actively used
+
+bucket = "tf-test-s3-backend-01"
+key    = "04-backends/dev/state.tfstate"
+region = "eu-central-1"
