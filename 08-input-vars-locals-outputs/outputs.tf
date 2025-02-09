@@ -5,6 +5,6 @@ output "s3_bucket_name" {
 }
 
 output "sensitive_var" {
-  value = var.my_sensitive_value
+  value     = var.my_sensitive_value
   sensitive = true
 }
